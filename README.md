@@ -112,7 +112,7 @@ python3 main.py
 
 Install the dependencies:
 ```bash
-sudo pacman -S binutils wget curl git python-pip libappindicator-gtk3 usbmuxd libimobiledevice avahi zlib unzip usbutils
+sudo pacman -S binutils wget curl git python-pip libappindicator-gtk3 usbmuxd libimobiledevice avahi zlib unzip usbutils libhandy
 ```
 
 Clone and build:
